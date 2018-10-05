@@ -1,0 +1,74 @@
+body{
+  background color:black);
+  color: black;
+  font-size: 10px;
+  text-shadow: 1px 2px 3px grey
+  font-family: 'Marvel'
+  font-weight: bolder;
+  margin:0px;
+}
+h1{
+  font-family: 'Kalam', cursive;
+  color: white;
+  font-weight: bolder;
+  font-size: 130px;
+  text-shadow: 1px 2px 5px grey
+  text-align: left;
+}
+h2 {
+  font-family: 'Kalam', bold;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+h3 {   
+  color: white;
+  text-align: right;
+  font-family: 'Caveat';}
+
+}
+a {
+  color: black;
+  font-size: 18px;
+}
+
+
+#banner {
+  background-image: url("images/velo.jpg");
+  padding: 110px;
+  background-size: 100%;
+  text-align: center;
+  background-position: center;
+  font-size: 25px;
+  color: white;
+  font-weight: bolder
+  height: 100vh;
+  }
+
+.card {
+  margin: 10px 0;
+}
+
+#footer{
+  padding: 5px;
+  background: black;
+  color: white;
+  text-align: right;
+  font-family: 'Caveat';
+  font-weight: lighter;
+  font-size: 20px
+}
+
+p
+{font-family: 'Marvel'
+text-align: center;
+font-size: 30px}
+
+#text{
+  font-family: 'Marvel', cursive;
+  color: black;
+  font-weight: bolder;
+  font-size: 30px;
+  text-shadow: 1px 2px 5px grey
+
+
